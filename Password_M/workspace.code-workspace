@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Project1",
+			"path": ".."
+		},
+		{
+			"name": "kanye-quotes-start",
+			"path": "../../../Downloads/kanye-quotes-start"
+		},
+		{
+			"name": "quizzler-app-start",
+			"path": "../../../Downloads/quizzler-app-start"
+		}
+	],
+	"settings": {}
+}
